@@ -206,7 +206,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🙏 Acknowledgments
 
 - **Laravel** - For the incredible framework that inspired this project
-- **FastAPI** - For the high-performance foundation
 - **Python Community** - For the amazing ecosystem
 
 ---
